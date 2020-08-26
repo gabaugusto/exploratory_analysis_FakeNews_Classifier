@@ -7,10 +7,10 @@ Começando um novo estudo exploratório.
 Não use como referência, pois ainda não está finalizado. 
 
 ## Data
-The data is public and is available on the Internet. 
+The data is public and is available on the [Internet](https://www.kaggle.com/c/fake-news/data). 
 
 ## Dados
-Os dados são publicos e estão disponíveis pela internet. 
+Os dados são publicos e estão disponíveis pela [internet](https://www.kaggle.com/c/fake-news/data). 
 
 ## License
 
